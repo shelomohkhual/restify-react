@@ -1,0 +1,13 @@
+{
+  "name": "restify_react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "restify": "^11.1.0"
+  }
+}
